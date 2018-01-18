@@ -1,0 +1,11 @@
+{
+  "name": "rollup-tree-shaking",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "rollup -c"
+  },
+  "dependencies": {
+    "rollup": "^0.54.1",
+    "rollup-plugin-typescript": "^0.8.1"
+  }
+}
